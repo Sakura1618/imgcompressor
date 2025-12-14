@@ -2,6 +2,8 @@
 
 imgcompressor 是一个用于在 Windows 上批量压缩和优化图像（主要面向 PNG）的桌面应用程序，基于 WPF 构建，使用 `SixLabors.ImageSharp` 处理图像数据并使用 `Ookii.Dialogs.Wpf` 提供一些系统对话框支持。
 
+<img src="1.png"/>
+
 ## 简介（Overview）
 - 项目名称：`imgcompressor`
 - 平台：Windows（WPF）

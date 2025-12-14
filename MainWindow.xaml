@@ -2,7 +2,7 @@
 <Window x:Class="imgcompressor.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        Title="PNG Compressor" Height="640" Width="660"
+        Title="imgcompressor" Height="640" Width="660"
         AllowDrop="True" DragOver="Window_DragOver" Drop="Window_Drop">
     <Grid Margin="10">
         <Grid.RowDefinitions>
